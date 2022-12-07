@@ -1,21 +1,19 @@
 # Abdullah-cBest
- <DOCTYPE html>
- <html>
-   <head>
-     <meta charset="utf-8'
-     <meta name="viewport" content="device width, intial scale=1"
-     <title>Abdullah Irfan Farooqi 
-     </title>                                                            
-     </head>                                                            
-     <body>
-          <h1>My first website</h1>
-          <h2>Abdullah Irfan Farooqi<h2>
-          <p>what is Lorem Ipsum
-             Ipsum is simply dummy text of the printing and typesetting industry 
-             visit the <a>href="https://www.google.com" target="_blank">website</a>
-             <img src="Html.jpg" alt="Oh yaaaas" border="10" width="400" height="300" >
-             
-             </P>
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="device width, initial scale=1">
+        <title>Abdullah Irfan Farooqi
+        </title>
+    </head>
+    <body>
+        <h1>My first website</h1>
+        <h2>Abdullah Irfan Farooqi</h2>
+                vist the <a>href="https://www.google.com" target="_blank">website</a>
+                <img src="Html.jpg" alt="Oh yaaaas" border="10" width="400" height="300" >
+    
+                </p>
              <table border="1px">
                 <tr>
                     <td>Cousre</td>
@@ -37,4 +35,4 @@
                 </tr>
              </table>  
     </body>
-</html>                                                                        
+</html>
