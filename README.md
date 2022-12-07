@@ -11,7 +11,7 @@
         <h1>My first website</h1>
         <h2>Abdullah Irfan Farooqi</h2>
                 vist the <a>href="https://www.google.com" target="_blank">website</a>
-                <img src="Html.jpg" alt="Oh yaaaas" border="10" width="400" height="300" >
+                <img src="Html.jpg" alt="html" border="10" width="400" height="300" >
     
                 </p>
              <table border="1px">
